@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WorldCup</string>
+    <string name="vs">V S</string>
+    <string name="round">강</string>
+    <string name="match">매치</string>
+</resources>
